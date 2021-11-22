@@ -26,6 +26,7 @@
 rootProject.name = "OpenOSRS Plugins"
 
 include(":betterantidrag")
+include(":betterinterfacestyles")
 include(":betterprofiles")
 include(":betterroguesden")
 include(":friendtagging")
