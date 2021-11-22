@@ -37,7 +37,6 @@ include(":reminders")
 include(":shayzieninfirmary")
 include(":stealingartefacts")
 include(":thieving")
-include(":uriremain")
 
 for (project in rootProject.children) {
     project.apply {
